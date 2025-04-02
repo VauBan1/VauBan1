@@ -4,9 +4,8 @@
 - 🌱 Estudando programação Back-End em Python e C#
 
 
-[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nicolas-pereira-7a256b2017
-)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nk_salocin/profilecard/?igsh=MTlobm50czA3c3NieA==)
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicolaspereira-dev)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nk_salocin/profilecard/?igsh=MTlobm50czA3c3NieA==](https://www.instagram.com/nk_salocin?igsh=MTlobm50czA3c3NieA%3D%3D&utm_source=qr ))
 
 
 <picture>
